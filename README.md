@@ -1,6 +1,20 @@
 <h2 align="center">👋 Hi there! I'm <b>Dhanush P Thampi</b></h2>
 <h3 align="center">💻 Computer Science Engineer from India</h3>
 
+
+### 👨‍💻 About Me
+
+<img align="right" height="150" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif" alt="Typing GIF" />
+
+* 🎓 Computer Science Engineer
+* 💡 Passionate about **Full-Stack Development**, **AI**, and **Game Development**
+* ⚙️ Experienced in building creative and efficient solutions
+* 🌐 Portfolio: [dhanushpthampi.online](https://www.dhanushpthampi.online)
+
+---
+
+
+
 ---
 
 ### 🚀 Tech Stack
@@ -40,16 +54,7 @@
 
 ---
 
-### 👨‍💻 About Me
 
-<img align="right" height="150" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif" alt="Typing GIF" />
-
-* 🎓 Computer Science Engineer
-* 💡 Passionate about **Full-Stack Development**, **AI**, and **Game Development**
-* ⚙️ Experienced in building creative and efficient solutions
-* 🌐 Portfolio: [dhanushpthampi.online](https://www.dhanushpthampi.online)
-
----
 
 ### 🌐 Connect with Me
 
