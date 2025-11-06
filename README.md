@@ -1,10 +1,10 @@
 <h1 align="left">👋 Hi there! I'm <b>Dhanush P Thampi</b></h1>
 <h3 align="left">💻 Computer Science Engineer from India</h3>
-
+<img align="right" height="150" src="coding.gif" alt="Typing GIF" />
 
 ### 👨‍💻 About Me
 
-<img align="right" height="150" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif" alt="Typing GIF" />
+
 
 * 💡 Passionate about **Full-Stack Development**, **AI**, and **Game Development**
 * ⚙️ Mixing Art an Logic To Build something Osum
